@@ -95,7 +95,7 @@ Math Quiz Master is designed to test your math skills under pressure. This proje
 ![Main Menu](main_menu.png)
 
 ### Gameplay
-![Gameplay](gameplay_png)
+![Gameplay](gameplay.png)
 
 ### Leaderboard
 ![Leaderboard](leaderboard.png)
